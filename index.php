@@ -81,48 +81,29 @@
         <section id="e5" class="py-5 bg-light">
             <div class="container">
                 <h2 class="text-center">l'Epreuve E5</h2>
-                <h4 class="text-center text-muted">Thème : Intelligence Artificielle</h4>
-                <div class="row mb-4">
-                    <div class="col-md-4">
-                        <h5>Pourquoi cette technologie ?</h5>
-                        <p>
-                            Par intérêt, curiosité et volonté éventuel dans le cadre de mon parcours de m'orienter dans ce domaine qui est nouveau,
-                            je me suis engagé à réaliser une veille technologie sur l'intelligence artificielle avec pour intention d'être plus familier
-                            avec ce domaine et comprendre les différents enjeux.
-                        </p>
-                    </div>
-                    <div class="col-md-4">
-                        <h5>Définition d'une IA</h5>
-                        <p>
-                            L’intelligence artificielle (IA) est un domaine informatique permettant à des machines de simuler des comportements humains, 
-                            comme apprendre, raisonner, percevoir ou interagir, en utilisant des algorithmes, des données et des modèles prédictifs.
-                        </p>
-                    </div>
-                    <div class="col-md-4">
-                        <h5>Outils mis en place pour s'informer</h5>
-                        <p>
-                            Les applications de l'intelligence artificielle sont multiples. On peut citer par exemple les assistants vocaux, les 
-                            voitures autonomes, les robots, les chatbots, les systèmes de recommandation ou encore les algorithmes de trading. 
-                            Elle est présente dans notre quotidien et est amenée à se développer de plus en plus dans les années à venir.
-                        </p>
-                    </div>
-                </div>
                 <div class="text-center mb-4">
                     <img src="assets/images/portfolio_competences.png" alt="Portefeuille de Compétences" class="img-fluid">
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>Liens vers des PDFs</h5>
-                        <ul>
-                            <li><a href="assets/pdf/document1.pdf" class="btn btn-link" download>Télécharger Document 1</a></li>
-                            <li><a href="assets/pdf/document2.pdf" class="btn btn-link" download>Télécharger Document 2</a></li>
+                        <h5>Liens téléchargeable</h5>
+                        <ul><li><a href="assets/pdf/Gestion des incidents_Cours.pdf" class="btn btn-link" download>Cours gestion des incidents</a></li>
+                            <li><a href="assets/pdf/TP_SauvegardeBackup.pdf" class="btn btn-link" target="_blank">Projet applicative web - Netflux</a></li>
+                            <li><a href="assets/pdf/01_Decouverte_du_moteur_de_Templates_Twig.pdf" class="btn btn-link" download>Document Découverte Twig</a></li>
+                            <li><a href="assets/pdf/02_Prise_en_main_du_moteur_de_Template_Twig.pdf" class="btn btn-link" download>Document Prise en main de Twig</a></li> 
+                            <li><a href="assets/images/bootstrap.png" class="btn btn-link" download="bootstrapAdam.png">Initiation Bootstrap 5 OpenClassroom</a></li>
+                            <li><a href="assets/images/secNum.png" class="btn btn-link" download="secNum.png">Certification SecNum</a></li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <h5>Redirections</h5>
                         <ul>
-                            <li><a href="https://drive.google.com/drive/folders/your-folder-id" class="btn btn-link" target="_blank">Google Drive</a></li>
-                            <li><a href="https://www.figma.com/file/your-file-id" class="btn btn-link" target="_blank">Figma</a></li>
+                        <li><a href="https://github.com/Adamoyonnax/phpAdam" class="btn btn-link" target="_blank">Projet applicative web - Netflux</a></li>
+                            <li><a href="https://www.figma.com/design/fheg4YtWh25dHkzQKdUOFP/Projet-site?node-id=0-1&m=dev&t=W0UXsWku1eh870oG-1" class="btn btn-link" target="_blank">Maquette Figma - Site premier Stage</a></li> 
+                            <li><a href="https://drive.google.com/drive/folders/1zjDXVFZY9nDSN_HGIooy3Dt2Xi93gVgq?usp=sharing" class="btn btn-link" target="_blank">Lien livrable Gestion de stage</a></li>
+                            <li><a href="https://www.figma.com/proto/xRh3gApNEiSDmSgEaNZEo2/Untitled?node-id=1-28&t=cnxjLrrFAWiJZZYE-1" class="btn btn-link" target="_blank">UX vue Etudiant - Figma</a></li>
+                            <li><a href="https://github.com/Adamoyonnax/app-stage" class="btn btn-link" target="_blank">Projet applicative web - Gestion de stage</a></li>
+
                         </ul>
                     </div>
                 </div>
